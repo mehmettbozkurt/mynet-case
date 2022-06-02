@@ -14,3 +14,5 @@ And finally run `php artisan serve` command
 php artisan serve
 
 ````
+
+Note : Heroku Case Url : http://mynet-case.herokuapp.com/person
